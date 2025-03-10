@@ -1,5 +1,6 @@
 {
     "name": "Ring:bit-02积木小车",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
